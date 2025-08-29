@@ -1,0 +1,27 @@
+Student,"ID",Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Auto,Order
+Albedo,60201,A,A,C,A,B,D,A,C,D,A,10,1
+Bart,60101,E,B,B,(D),D,(C),(C),(C),D,(C),2.5,14
+Citan,60102,A,(D),B,B,A,E,B,A,D,(A),7,2
+Dunban,60301,(E),(E),(D),(A),(B),B,A,E,(E),(C),-0.5,24
+Elly,60103,A,(B),(D),(E),(D),(A),D,( ),E,B,1.5,17
+Fei,60104,( ),(E),E,( ),A,( ),(E),(A),A,(A),1,20
+Grahf,60202,D,(D),(C),D,D,D,E,B,A,D,7,2
+Hammer,60203,D,A,C,(A),(E),(A),(E),A,(B),E,2.5,14
+Id,60204,E,C,A,(D),E,A,(C),B,(A),( ),4.5,7
+Jin,60205,E,( ),B,(D),(C),B,(C),B,(A),E,3,12
+Krelian,60206,(D),C,( ),B,(C),B,(C),B,(E),C,3,12
+Lanz,60501,( ),(C),(B),(D),(C),(D),C,E,B,E,1.5,17
+Melia,60302,(E),E,B,C,C,E,(C),B,(C),(A),4,9
+Noah,60502,(B),( ),A,(A),D,(B),(C),(A),(C),E,0,23
+Otharon,60303,B,E,(D),( ),D,C,B,( ),(C),( ),4,9
+Pyra,60401,(D),(E),(B),(D),(E),(D),(B),(C),B,(B),-3.5,26
+Queen,60105,(B),(B),E,(D),E,E,(E),( ),( ),C,2,16
+Rex,60402,C,(D),A,C,D,C,(E),B,D,(C),5.5,5
+Shulk,60304,(A),(A),( ),E,(A),(D),(D),(B),(E),( ),-2.5,25
+Taion,60503,B,(C),(C),( ),E,(E),(D),(A),( ),E,0.5,22
+U-DO,60207,(B),(B),D,C,C,C,A,B,B,(A),5.5,5
+Vandham,60403,D,B,C,(E),D,C,( ),C,D,(C),6,4
+Wilhelm,60208,E,(E),B,A,(A),(E),C,(B),(B),(D),1,20
+Yuriev,60209,(C),D,B,A,( ),(E),(A),E,C,( ),3.5,11
+Xenogears,60106,B,C,E,(B),C,(C),(D),( ),D,E,4.5,7
+Zanza,60210,E,C,(B),( ),(E),(B),B,(B),C,(B),1.5,17
